@@ -75,11 +75,11 @@ I came for the degree, stayed for the code.
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=thechampgit&show_icons=true&hide_border=true" width="430">
+<img src="https://github-readme-stats.shion.dev/api?username=gitenma&show_icons=true&hide_border=true" width="430">
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://streak-stats.demolab.com?user=thechampgit&hide_border=true" width="430">
+<img src="https://streak-stats.demolab.com?user=gitenma&hide_border=true" width="430">
 
 <br><br>
 
