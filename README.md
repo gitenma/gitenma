@@ -55,7 +55,7 @@ I came for the degree, stayed for the code.
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 <br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=thechampgit&layout=compact&hide_border=true" width="330">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gitenma&layout=compact&hide_border=true" width="330">
 
 
 
